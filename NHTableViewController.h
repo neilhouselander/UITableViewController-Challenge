@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NHTableViewController.h
 //  UITableVIewController Challenge Solution
 //
 //  Created by Neil Houselander on 16/02/2015.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface NHTableViewController : UITableViewController
 
 @end
-
